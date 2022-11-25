@@ -16,4 +16,4 @@ Database : Mongo DB
   - Remove users from group
 - Authentication with JWT
 - User profiles
-- Real time chatting with sanity.io
+- Real time chatting with Socket.IO
